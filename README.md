@@ -6,10 +6,10 @@
 ---
 
 ### 🚀 About Me
-🔹 Undergraduate Software Engineering Student at SLIIT  
-🔹 Passionate about full-stack development and problem-solving  
-🔹 Exploring Flutter & Kotlin for mobile app development  
-🔹 Organizing tech events and gaming competitions  
+- 🔹 Undergraduate Software Engineering Student at SLIIT
+- 🔹 Passionate about full-stack development and problem-solving
+- 🔹 Exploring Flutter & Kotlin for mobile app development
+- 🔹 Organizing tech events and gaming competitions
 
 ---
 
@@ -26,6 +26,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThivinaSam&theme=onedark&no-frame=true&row=1&column=6" alt="Thivina's GitHub Trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThivinaSam&show_icons=true&theme=react" alt="Thivina's GitHub Stats" />
 </p>
@@ -39,9 +47,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/ThivinaSam/ThivinaSam/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thivina-samarakkody/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThivinaSamarakkody)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThivinaSam)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
