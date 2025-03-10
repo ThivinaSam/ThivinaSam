@@ -24,12 +24,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThivinaSam&theme=onedark&no-frame=true&row=1&column=6" alt="Thivina's GitHub Trophies" />
-</p>
 
 ---
 
@@ -47,12 +41,17 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThivinaSam&theme=onedark&no-frame=true&row=1&column=6" alt="Thivina's GitHub Trophies" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/ThivinaSam/ThivinaSam/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
----
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thivina-samarakkody/)
