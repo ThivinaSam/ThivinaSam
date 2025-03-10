@@ -24,6 +24,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThivinaSam/ThivinaSam/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThivinaSam/ThivinaSam/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ThivinaSam/ThivinaSam/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -47,13 +55,6 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThivinaSam/ThivinaSam/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThivinaSam/ThivinaSam/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ThivinaSam/ThivinaSam/output/github-snake.svg" />
-</picture>
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thivina-samarakkody/)
