@@ -3,20 +3,25 @@ name: Generate Snake Contribution Graph
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
         with:
           github_user_name: ThivinaSam
           outputs: dist/snake.svg
-      - name: Push Snake
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          user_name: "ThivinaSam"
-          user_email: "thivinasamarakkody@gmail.com"
+
+      - name: Commit and Push Snake
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Generated Snake Contribution Graph" || echo "No changes to commit"
+          git push
