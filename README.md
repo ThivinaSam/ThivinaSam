@@ -28,14 +28,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThivinaSamarakkody&show_icons=true&theme=react" alt="Thivina's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThivinaSam&show_icons=true&theme=react" alt="Thivina's GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThivinaSamarakkody&theme=react" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThivinaSam&theme=react" alt="GitHub Streak Stats" />
 </p>
 
 ---
