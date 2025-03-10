@@ -20,20 +20,17 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Set up Node.js environment (optional, if using Node.js for commit graph generation)
+      # Step 2: Set up Node.js environment (optional, if using Node.js for random commit generation)
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '14'
 
-      # Step 3: Retrieve your actual commit history and generate random commits
-      - name: Generate Combined Commit Graph (Actual + Random Commits)
+      # Step 3: Generate a random commit graph using a script (replace with your logic)
+      - name: Generate Random Commit Graph
         run: |
-          # Retrieve actual commits using GitHub API or git log
-          git log --pretty=format:"%H,%ad,%s" --date=short > actual_commits.txt
-          
-          # Script to generate random commits and merge with your actual commits
-          node generateCommitGraph.js actual_commits.txt > combined_commits.txt
+          # Create a script to generate random commits or use existing logic
+          node generateCommitGraph.js
 
       # Step 4: Generate GitHub Contributions Snake Animations
       - name: Generate GitHub Contributions Snake Animations
@@ -46,7 +43,7 @@ jobs:
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      
       # Step 5: Deploy the generated files to the 'output' branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
@@ -54,4 +51,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "Update snake animation with combined commit graph [skip ci]"
+          commit_message: "Update snake animation [skip ci]"
