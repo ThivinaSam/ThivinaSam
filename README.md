@@ -50,7 +50,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/ThivinaSam/ThivinaSam/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github.com/ThivinaSam/ThivinaSam/blob/output/snake.svg" alt="Contribution Snake" />
 </p>
 
 ### 🌍 Connect with Me
